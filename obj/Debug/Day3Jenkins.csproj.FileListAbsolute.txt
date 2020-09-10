@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Jenkins\Day3Jenkins\Day3Jenkins\bin\Debug\Day3Jenkins.exe.config
+C:\Users\HP\Desktop\Jenkins\Day3Jenkins\Day3Jenkins\bin\Debug\Day3Jenkins.exe
+C:\Users\HP\Desktop\Jenkins\Day3Jenkins\Day3Jenkins\bin\Debug\Day3Jenkins.pdb
+C:\Users\HP\Desktop\Jenkins\Day3Jenkins\Day3Jenkins\obj\Debug\Day3Jenkins.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Jenkins\Day3Jenkins\Day3Jenkins\obj\Debug\Day3Jenkins.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Jenkins\Day3Jenkins\Day3Jenkins\obj\Debug\Day3Jenkins.exe
+C:\Users\HP\Desktop\Jenkins\Day3Jenkins\Day3Jenkins\obj\Debug\Day3Jenkins.pdb
